@@ -1,0 +1,92 @@
+html {
+  background-color: rgb(219, 219, 219);
+}
+
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h1 {
+  text-align: center;
+  color: rgb(139, 145, 150);
+}
+p {
+  text-align: center;
+  color: rgb(66, 69, 71);
+}
+h4 {
+  color: rgb(65, 69, 73);
+}
+.GI {
+  color: rgb(115, 115, 194);
+}
+.T {
+  color: rgb(82, 112, 158);
+}
+.s {
+  color: rgb(182, 142, 197);
+}
+
+.FH {
+  color: rgb(143, 46, 46);
+}
+
+.F {
+  color: rgb(72, 113, 201);
+}
+#sbmt {
+  color: rgb(142, 109, 173);
+  background-color: rgb(206, 183, 226);
+  border: 1px solid rgb(69, 35, 80);
+  border-radius: 5px;
+  padding: 7px;
+}
+
+#q1 {
+  background-color: rgb(218, 186, 185);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#q2 {
+  background-color: rgb(159, 189, 194);
+  padding: 20px;
+  border-radius: 10px;
+}
+#q3 {
+  background-color: rgb(157, 189, 162);
+  padding: 20px;
+  border-radius: 10px;
+}
+#q4 {
+  background-color: rgb(212, 189, 144);
+  padding: 20px;
+  border-radius: 10px;
+}
+#finalOtpt {
+  background-color: rgb(195, 154, 211);
+  padding: 20px;
+  border-radius: 10px;
+}
+.intro {
+  background-color: rgb(190, 196, 212);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input {
+  border-radius: 5px;
+  border: 2px;
+}
+
+.correct {
+  color: rgb(49, 99, 56);
+}
+.incorrect {
+  color: rgb(99, 49, 49);
+}
+
+img {
+  width: 500px;
+}
